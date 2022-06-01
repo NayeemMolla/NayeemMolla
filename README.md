@@ -6,14 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on ** iOS and web development **
+- 🔭 I’m currently working on **  Artificial intelligence **
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **deep learning**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-
-
-
+- Java  Certificate **https://www.hackerrank.com/certificates/b20cada88fb8**
+- Python Certificate **https://www.hackerrank.com/certificates/bd44f2d7e14f**
 - 📫 How to reach me **nrnayeem04@outlook.com**
 
 - ⚡ Fun fact ** I like to play football sometimes I play games and go to the GYM very often.**
@@ -45,7 +44,7 @@
 
 <p align="center">
     <a href="https://github.com/NayeemMolla/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NayeemMolla&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="NayeemMolla's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NayeemMolla&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -61,7 +60,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/NayeemMolla/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NayeemMolla&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/NayeemMolla/github-readme-activity-graph"><img alt="NayeemMolla's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NayeemMolla&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
